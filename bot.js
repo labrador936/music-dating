@@ -21,7 +21,7 @@ const queue = new Map();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`By Floki /play |https://atlantic95a.com`)
+client.user.setGame(`|https://atlantic95a.com`)
   console.log('')
   console.log('')
   console.log('+[-----------------------------------------------------------------]+')
