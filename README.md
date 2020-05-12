@@ -1,2 +1,2 @@
-# music-dating
+# Lua music
 dating bot
